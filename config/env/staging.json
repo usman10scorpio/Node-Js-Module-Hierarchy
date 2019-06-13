@@ -1,0 +1,16 @@
+{
+  "PORT": 1234,
+  "mongodb": {
+    "host": "mongodb://ipaddress:27017/",
+    "uri": "mongodb://ipaddress:27017/xxxxxxxx",
+    "db_name": "xxxxxxxx",
+    "credentials": {
+      "username": "",
+      "password": ""
+    }
+  },
+  "session": {
+    "secret": "*&xxxxxxxx&#"
+  },
+  "googleMapsAPI": "xxxxxxxxxxxxxxxxxxxxxxxxx"
+}
