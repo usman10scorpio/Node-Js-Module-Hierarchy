@@ -1,0 +1,17 @@
+{
+    "11000": {
+        "msg": {
+            "EN": "Please enter bank code"
+        }
+    },
+    "11001": {
+        "msg": {
+            "EN": " Please enter bank name"
+        }
+    },
+    "11002": {
+        "msg": {
+            "EN": "Bank name or code already exist"
+        }
+    }
+}
