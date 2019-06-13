@@ -22,5 +22,13 @@ Project Directory Structure
                                                                 ==== bank.model.js
                                               ====== routes
                                                                 ==== bank.routes.js
+    =================== config
+                        
+                        ====== env
+            
+                                    ===== development.json
+                                    ===== staging.json
+                        
+                        ======= response.js
                                           
                                           
